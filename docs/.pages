@@ -1,0 +1,8 @@
+nav:
+  - Home: index.md
+  - Resources: resources
+  - Instructions:
+      - ... | instructions    # The '...' makes this a non-expanding link to the folder
+  - Posts:
+      - ... | posts           # The '...' makes this a non-expanding link to the folder
+  - Miscellaneous: misc

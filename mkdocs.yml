@@ -1,0 +1,42 @@
+site_name: RessNullius
+site_url: https://arpan-khan.github.io/RessNullius/
+repo_url: https://github.com/arpan-khan/RessNullius
+repo_name: RessNullius
+
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.path
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+# Add this new section to enable the plugin
+plugins:
+  - search
+  - awesome-pages
+
+copyright: Copyright © 2025 Arpan Khan
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
