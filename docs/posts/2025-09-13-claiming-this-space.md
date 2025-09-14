@@ -1,6 +1,6 @@
 # Claiming This Space: A First Post
 
-Test Test
+Edited it through Android
 
 ## What to Expect Here
 
@@ -27,3 +27,4 @@ nav:
   - Guides & Projects: ...
   - Resources: ...
   - Blog: blog/index.md
+  ```
