@@ -1,6 +1,6 @@
 # Welcome to RessNullius
 
-A concise knowledge index for essential topics and techniques.
+A concise index of nonsense.
 
 ---
 
@@ -38,7 +38,7 @@ A concise knowledge index for essential topics and techniques.
 
     General information and other content that doesn't fit elsewhere.
 
-    [:octicons-package-16: See More](misc/about-this-wiki.md)
+    [:octicons-package-16: See More](misc/index.md)
 
 </div>
 

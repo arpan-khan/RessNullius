@@ -27,6 +27,7 @@ theme:
     - search.highlight
     - search.suggest
 
+
 plugins:
   - search
   - awesome-pages
@@ -34,6 +35,8 @@ plugins:
 copyright: Copyright © 2025 Arpan Khan
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
   - attr_list
   - md_in_html
   - pymdownx.emoji:
