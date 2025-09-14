@@ -46,12 +46,8 @@ A concise index of nonsense.
 
 ## Recent Posts
 
-Here are some of the most relevant articles to get you started:
+Here are some of the most relevant articles:
 
--   [**How to Install Software**](instructions/how-to-install.md)
+-   [**One Piece Manga / Spoilers / Anime**](misc/one-piece.md)
     <br>
-    *A step-by-step guide on the standard installation process.*
-
--   [**My First Post**](posts/first-post.md)
-    <br>
-    *An introductory post outlining the goals of this section.*
+    *One Piece chapters*
