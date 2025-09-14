@@ -1,10 +1,6 @@
 # Claiming This Space: A First Post
 
-Hello and welcome to RessNullius. This post marks the beginning of a new project—a digital space to document projects, curate knowledge, and explore ideas. If you're reading this, it means the automated deployment pipeline is working, and the first piece of "ownerless" digital territory has been claimed.
-
-This site is built on the philosophy of *Res Nullius*, a Latin term for "ownerless thing." In a world overflowing with information, the real challenge is to find, understand, and make knowledge your own. This wiki and blog is my attempt to do just that.
-
-> The act of learning is not just consumption, but the curation and creation of new understanding.
+Test Test
 
 ## What to Expect Here
 

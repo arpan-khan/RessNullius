@@ -27,7 +27,6 @@ theme:
     - search.highlight
     - search.suggest
 
-# Add this new section to enable the plugin
 plugins:
   - search
   - awesome-pages
