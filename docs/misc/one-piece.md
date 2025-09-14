@@ -64,7 +64,7 @@
 
 ### Chapters
 
-- Chapter 1160 - [Link 1](https://tcbonepiecechapters.com/chapters/7884/one-piece-chapter-1160) / [Link 2](https://cubari.moe/read/imgur/LJasQpW/1/1/) / [Link 3](https://imgur.com/a/LJasQpW) / Break Next Week
+- Chapter 1160 - [Link 1](https://mangaplus.shueisha.co.jp/viewer/1026336?timestamp=1757862057915) / [Link 2](https://tcbonepiecechapters.com/chapters/7884/one-piece-chapter-1160) / [Link 3](https://cubari.moe/read/imgur/LJasQpW/1/1/) / [Link 4](https://imgur.com/a/LJasQpW) / Break Next Week
 
 --- 
 
