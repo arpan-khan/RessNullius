@@ -1,11 +1,9 @@
 # Other Manga / Manhwa
 
 ## Index
-<ul>
-  <li><a href="#jujutsu-kaisen-modulo">Jujutsu Kaisen Modulo</a></li>
-  <li><a href="#black-clover">Black Clover</a></li>
-  <li><a href="#one-punch-man">One Punch Man</a></li>
-</ul>
+*   [Jujutsu Kaisen Modulo](#jujutsu-kaisen-modulo)
+*   [Black Clover](#black-clover)
+*   [One Punch Man](#one-punch-man)
 
 
 ## News
@@ -35,4 +33,4 @@
 ## One Punch Man
 ### Chapters
 
-- Chapter 214 - [Link 1](https://cubari.moe/read/imgchest/lqyemoa2z7d/1/1/)
+- Chapter 214 - [Link 1](https://cubari.moe/read/imgchest/lqyemoa2z7d/1/1/) / [Link 2](https://cubari.moe/read/gist/OPM/214/1/)

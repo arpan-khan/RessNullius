@@ -48,6 +48,10 @@ A concise index of nonsense.
 
 Here are some of the most relevant articles:
 
+-   [**More Manga Updates**](misc/#index.md)
+    <br>
+    *Added Jujutsu Kaisen Modulo, Black Clover and One Punch Man Latest chapter updates*
+
 -   [**One Piece Manga / Spoilers / Anime**](misc/one-piece.md)
     <br>
     *One Piece chapters*
