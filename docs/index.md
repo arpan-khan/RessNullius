@@ -48,6 +48,9 @@ A concise index of nonsense.
 
 Here are some of the most relevant articles:
 
+-   [**Weekly / Monthly Media Rankings**](posts/2025/20250918-weekly-monthly-ranking-post.md)
+    <br>
+    *Weekly and monthly posts will share anime, manga, movie, and comic rankings from trusted sources.*
 -   [**Privacy at risk disguised as child protection**](posts/2025/20250917-protect-privacy.md)
     <br>
     *Mandatory online ID laws threaten privacy under the guise of child protection.*
