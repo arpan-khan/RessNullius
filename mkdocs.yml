@@ -31,12 +31,16 @@ theme:
 plugins:
   - search
   - awesome-pages
+  - include
 
 copyright: Copyright © 2025 Arpan Khan
 
 markdown_extensions:
+  - pymdownx.snippets:
+      base_path: docs/misc
   - admonition
   - pymdownx.details
+  - pymdownx.superfences
   - attr_list
   - md_in_html
   - pymdownx.emoji:
