@@ -31,7 +31,6 @@ theme:
 plugins:
   - search
   - awesome-pages
-  - include
 
 copyright: Copyright © 2025 Arpan Khan
 
