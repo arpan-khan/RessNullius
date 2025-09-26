@@ -64,37 +64,17 @@
 
 ### Chapters
 
-- Chapter 1160 - [Link 1](https://mangaplus.shueisha.co.jp/viewer/1026336?timestamp=1757862057915) / [Link 2](https://tcbonepiecechapters.com/chapters/7884/one-piece-chapter-1160) / [Link 3](https://cubari.moe/read/imgur/LJasQpW/1/1/) / [Link 4](https://imgur.com/a/LJasQpW) / Break Next Week
+- Chapter 1161 - [Link 1](https://cubari.moe/read/imgchest/vj4j8x8g578/1/1/) / No Break Next Week
+- Chapter 1160 - [Link 1](https://mangaplus.shueisha.co.jp/viewer/1026336?timestamp=1757862057915) / [Link 2](https://tcbonepiecechapters.com/chapters/7884/one-piece-chapter-1160) / [Link 3](https://cubari.moe/read/imgur/LJasQpW/1/1/) / [Link 4](https://imgur.com/a/LJasQpW)
 
 --- 
 
 ## Spoilers / Raws
 
 <details>
-    <summary>Chapter 1161</summary>
-    <h4><a href="https://cubari.moe/read/imgur/lK6qCJH/1/1/">RAWS</a></h4>
-    <h3>A Poem of Love Bound Amid a Rain of Arrows</h3>
+    <summary>Chapter 1162</summary>
     
-    <ul>
-        <li><strong>Color Spread:</strong> The Straw Hat crew plays with a claw machine.</li>
-        <li><strong>Cover Page:</strong> Yamato, Momonosuke, and Kin'emon pray at a shrine.</li>
-    </ul>
-
-    <h4>Chapter Summary:</h4>
-    
-    <ul>
-        <li>Dragon is in a losing fight against a fanged female Holy Knight, who hits him with a powerful beam.</li>
-        <li>Whitebeard unintentionally saves Dragon just before the killing blow.</li>
-        <li>Back in God Valley, many Rocks Pirates mutiny. Whitebeard, Linlin, and Kaido team up to fight the traitors.</li>
-        <li>Garp appears and attacks the three. A fire attack from Linlin has no effect on him.</li>
-        <li>Though Kaido wants to fight, the trio is forced to retreat from Garp due to a lack of time.</li>
-        <li>The Roger Pirates and Rocks Pirates (including WB, BM, Shiki, and Kaido) are on a collision course within God Valley city.</li>
-        <li>Shakky escapes alone but is captured and nearly killed by someone named Sommers.</li>
-        <li>Rayleigh intervenes, defeating Sommers with a strong attack and saving Shakky.</li>
-        <li>Rayleigh's actions win Shakky's heart, leaving Roger and Gaban crying in the background.</li>
-    </ul>
-    
-    <p><strong>No break next week.</strong></p>
+    <p><strong>Not out yet.</strong></p>
 
 </details>
 
