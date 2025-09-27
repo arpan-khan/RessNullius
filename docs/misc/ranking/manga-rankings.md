@@ -6,6 +6,41 @@
 
 ### August
 
+#### Week 4
+
+<!--8<-- [start:shoseki-2509w4] -->
+??? note "Shoseki Ranking - 9/15-9/21"
+    | Rank | English Title | Author |
+    |:----:|:-----------------------------------------------|:-------------------|
+    | 1 | Kaiju No. 8 | Naoya Matsumoto |
+    | 2 | Shura no Toki | Masatoshi Kawahara |
+    | 3 | The Heroic Legend of Arslan | Hiromu Arakawa |
+    | 4 | Umamusume: Cinderella Gray | Taiyo Kuzumi |
+    | 5 | The Four Knights of the Apocalypse | Nakaba Suzuki |
+    | 6 | Chainsaw Man | Tatsuki Fujimoto |
+    | 7 | Skip Beat! | Yoshiki Nakamura |
+    | 8 | The Fragrant Flower Blooms with Dignity | Saka Mikami |
+    | 9 | WIND BREAKER | Satoru Nii |
+    | 10 | Silver Mountain | Kazuhiro Fujita |
+<!--8<-- [end:shoseki-2509w4] -->
+
+<!--8<-- [start:oricon-2509w4] -->
+??? note "Japan Weekly Manga Sales Ranking (Oricon) - As of September 29, 2025"
+    | Ranking | Title | Author |
+    |:----:|:-------------------------------------------------------------|:-----------------------------------------------------|
+    | 1 | Kaiju No. 8 Vol.16 | Naoya Matsumoto |
+    | 2 | Shura no Toki Vol.25 | Masatoshi Kawahara |
+    | 3 | Uma Musume Cinderella Gray Vol.21 | Kuzumi Taiyo & others |
+    | 4 | Skip Beat! Vol.52 | Yoshiki Nakamura |
+    | 5 | Four Knights of the Apocalypse Vol.23 | Nakaba Suzuki |
+    | 6 | Chainsaw Man Vol.22 | Tatsuki Fujimoto |
+    | 7 | The Heroic Legend of Arslan Vol.23 | Arakawa Hiromu |
+    | 8 | The Fragrant Flower Blooms with Dignity Vol.19 | Saka Mikami |
+    | 9 | WIND BREAKER Vol.23 | Satoru Nii |
+    | 10 | Rent-A-Girlfriend Vol.42 | Reiji Miyajima |
+<!--8<-- [end:oricon-2509w4] -->
+
+
 #### Week 3
 
 <!--8<-- [start:shoseki-2509w3] -->

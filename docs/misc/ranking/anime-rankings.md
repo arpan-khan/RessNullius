@@ -6,6 +6,58 @@
 
 ### September
 
+#### Week 4
+
+<!--8<-- [start:animekarmalist-2509w4] -->
+
+??? note "AnimeKarmaList Week 4 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | bâan: The Boundary of Adulthood |
+    | 2 | My Dress-Up Darling Season 2 |
+    | 3 | The Fragrant Flower Blooms With Dignity |
+    | 4 | Secrets of the Silent Witch |
+    | 5 | There's No Freaking Way I'll Be Your Lover! Unless... |
+    | 6 | Dr. STONE SCIENCE FUTURE Cour 2 |
+    | 7 | Gachiakuta |
+    | 8 | Rascal Does Not Dream of Santa Claus |
+    | 9 | The Summer Hikaru Died |
+    | 10 | Grand Blue Dreaming Season 2 |
+<!--8<-- [end:animekarmalist-2509w4] -->
+
+<!--8<-- [start:animetrending-2509w4] -->
+??? note "Anime Trending Week 4 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | Call of the Night S2 |
+    | 2 | My Dress-Up Darling S2 |
+    | 3 | DAN DA DAN S2 |
+    | 4 | The Fragrant Flower Blooms with Dignity |
+    | 5 | Secrets of the Silent Witch |
+    | 6 | Dr. STONE SCIENCE FUTURE Part II |
+    | 7 | Toilet-bound Hanako-kun S2 Part II |
+    | 8 | Rascal Does Not Dream of Santa Claus |
+    | 9 | Dealing with Mikadono Sisters Is a Breeze |
+    | 10 | The Summer Hikaru Died |
+<!--8<-- [end:animetrending-2509w4] -->
+
+<!--8<-- [start:animecorner-2509w4] -->
+??? note "Anime Corner Week 4 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1st | The Summer Hikaru Died |
+    | 2nd | Toilet-Bound Hanako-kun Season 2 Part 2 |
+    | 3rd | The Fragrant Flower Blooms with Dignity |
+    | 4th | Dan Da Dan Season 2 |
+    | 5th | Rascal Does Not Dream of Santa Claus |
+    | 6th | Call of the Night Season 2 |
+    | 7th | Dr. Stone: Science Future (Season 4) Part 2 |
+    | 8th | Sakamoto Days Part 2 |
+    | 9th | My Dress-Up Darling Season 2 |
+    | 10th | Grand Blue Season 2 |
+<!--8<-- [end:animecorner-2509w4] -->
+
+
 #### Week 3
 
 <!--8<-- [start:animekarmalist-2509w3] -->
