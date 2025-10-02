@@ -6,7 +6,7 @@ This section contains miscellaneous content.
 *   [Manga / Webcomics](#manga--webcomics)
 
 ## Weekly / Monthly - Rankings / Lists
-### September Week 3 Rankings
+### September Week 4 Rankings
 
 --8<-- "ranking/anime-rankings.md:animekarmalist-2509w4"
 --8<-- "ranking/anime-rankings.md:animetrending-2509w4"
