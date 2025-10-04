@@ -4,10 +4,43 @@
 
 ## 2025
 
+### October
+
+<!--8<-- [start:toptoon-2510w1] -->
+??? note "TopToon Global Week 1"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | Secret Class |
+    | 2 | A Second Chance |
+    | 3 | The Hole is Open |
+    | 4 | All about My Best Friend's Girl |
+    | 5 | MILF Hunter in Another World |
+    | 6 | Panty Note |
+    | 7 | My New Family is Nice to Me |
+    | 8 | Sextopwatch |
+    | 9 | Brave New World |
+    | 10 | Eat First, Mom |
+<!--8<-- [end:toptoon-2510w1] -->
+
 ### September
 
-<!--8<-- [start:toptoon-2509w4] -->
+<!--8<-- [start:toptoon-2509] -->
+??? note "TopToon Global Monthly - September 2025"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | Secret Class |
+    | 2 | The Hole is Open |
+    | 3 | A Second Chance |
+    | 4 | Sextopwatch |
+    | 5 | Eat First, Mom |
+    | 6 | MILF Hunter in Another World |
+    | 7 | Brave New World |
+    | 8 | My New Family is Nice to Me |
+    | 9 | Rooftop Sex King |
+    | 10 | The Desire App |
+<!--8<-- [end:toptoon-2509] -->
 
+<!--8<-- [start:toptoon-2509w4] -->
 ??? note "TopToon Global Week 4"
     | Rank | Title |
     |:----:|:------|

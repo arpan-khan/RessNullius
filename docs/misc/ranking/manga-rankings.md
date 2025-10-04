@@ -4,7 +4,43 @@
 
 ## 2025
 
-### August
+### October
+
+#### Week 1
+
+<!--8<-- [start:shoseki-2510w1] -->
+??? note "Shoseki Ranking - 9/22-9/28"
+    | Rank | English Title | Author |
+    |:----:|:-----------------------------------------------|:-------------------|
+    | 1 | Solo Leveling | DUBU |
+    | 2 | Vinland Saga | Makoto Yukimura |
+    | 3 | Uncle from Another World | Hotondoshindeiru |
+    | 4 | I'm Used to Being Alone! | Meguru Haruta |
+    | 5 | Skip Beat! | Yoshiki Nakamura |
+    | 6 | Kaiju No. 8 | Naoya Matsumoto |
+    | 7 | Uma Musume: Cinderella Gray | Taiyou Kuzumi |
+    | 8 | Chainsaw Man | Tatsuki Fujimoto |
+    | 9 | Firefly Wedding | Oreco Tachibana |
+    | 10 | To Shimazaki, in the Peaceful Land | Sesese Hamashita |
+<!--8<-- [end:shoseki-2510w1] -->
+
+<!--8<-- [start:oricon-2510w1] -->
+??? note "Oricon Ranking - As of October 6, 2025"
+    | Ranking | Title | Author |
+    |:----:|:-------------------------------------------------------------|:-----------------------------------------------------|
+    | 1 | Solo Leveling Vol.22 | (Art) DUBU (REDICE STUDIO) / (Story) Chugong / (Adaptation) h-goon |
+    | 2 | Uncle from Another World Vol.14 | Totto Shindeiru |
+    | 3 | Vinland Saga Vol.29 | Makoto Yukimura |
+    | 4 | I'm Used to Being Alone. Currently Abandoning My Fiancé! Vol.3 | (Art) Jun Haruta / (Story) Yahiro Arase |
+    | 5 | Skip Beat! Vol.52 | Yoshiki Nakamura |
+    | 6 | Kaiju No. 8 Vol.16 | Naoya Matsumoto |
+    | 7 | Uma Musume Cinderella Gray Vol.21 | (Art) Taiyo Kusumi / (Script) Satoshi Sugiura & Pita / (Manga Planning & Composition) Shunnosuke Ito / (Story) Cygames |
+    | 8 | Chainsaw Man Vol.22 | Tatsuki Fujimoto |
+    | 9 | Firefly's Wedding Vol.9 | Oreko Tachibana |
+    | 10 | Days with You in Rosy Colors Vol.2 | Chihiro Hiro |
+<!--8<-- [end:oricon-2510w1] -->
+
+### September
 
 #### Week 4
 

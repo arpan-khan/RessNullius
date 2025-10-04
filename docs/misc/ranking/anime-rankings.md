@@ -4,7 +4,93 @@
 
 ## 2025
 
+### October
+
+#### Week 1
+
+<!--8<-- [start:animekarmalist-2510w1] -->
+??? note "AnimeKarmaList Week 1 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | The Fragrant Flower Blooms With Dignity |
+    | 2 | Gachiakuta |
+    | 3 | This Monster Wants to Eat Me |
+    | 4 | The Summer Hikaru Died |
+    | 5 | Rascal Does Not Dream of Santa Claus |
+    | 6 | Kaiju No. 8 Season 2 |
+    | 7 | CITY THE ANIMATION |
+    | 8 | Ruri Rocks |
+    | 9 | May I Ask for One Final Thing? |
+    | 10 | Dusk Beyond the End of the World |
+<!--8<-- [end:animekarmalist-2510w1] -->
+
+<!--8<-- [start:animetrending-2510w1] -->
+??? note "Anime Trending Week 1 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | Call of the Night S2 |
+    | 2 | My Dress-Up Darling S2 |
+    | 3 | DAN DA DAN S2 |
+    | 4 | The Fragrant Flower Blooms with Dignity |
+    | 5 | Secrets of the Silent Witch |
+    | 6 | Dr. STONE SCIENCE FUTURE Part II |
+    | 7 | Toilet-bound Hanako-kun S2 Part II |
+    | 8 | Rascal Does Not Dream of Santa Claus |
+    | 9 | Dealing with Mikadono Sisters Is a Breeze |
+    | 10 | The Summer Hikaru Died |
+<!--8<-- [end:animetrending-2510w1] -->
+
+<!--8<-- [start:animecorner-2510w1] -->
+??? note "Anime Corner Week 1 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1st | The Summer Hikaru Died |
+    | 2nd | Toilet-Bound Hanako-kun Season 2 Part 2 |
+    | 3rd | The Fragrant Flower Blooms with Dignity |
+    | 4th | Dan Da Dan Season 2 |
+    | 5th | Rascal Does Not Dream of Santa Claus |
+    | 6th | Call of the Night Season 2 |
+    | 7th | Dr. Stone: Science Future (Season 4) Part 2 |
+    | 8th | Sakamoto Days Part 2 |
+    | 9th | My Dress-Up Darling Season 2 |
+    | 10th | Grand Blue Season 2 |
+<!--8<-- [end:animecorner-2510w1] -->
+
 ### September
+
+#### Summer 2025 Top 10
+
+<!--8<-- [start:mal-2509] -->
+??? note "MyAnimeList Seasonal Top Anime Summer 2025"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | The Fragrant Flower Blooms With Dignity |
+    | 2 | Lord of the Mysteries Season 2 |
+    | 3 | Dandadan Season 2 |
+    | 4 | Dr. STONE: Science Future Part 2 |
+    | 5 | Grand Blue Dreaming Season 2 |
+    | 6 | Call of the Night Season 2 |
+    | 7 | Rascal Does Not Dream of a Santa Claus |
+    | 8 | My Dress-Up Darling Season 2 |
+    | 9 | The Summer Hikaru Died |
+    | 10 | Silent Witch |
+<!--8<-- [end:mal-2509] -->
+
+<!--8<-- [start:al-2509] -->
+??? note "Anilist Seasonal Top Anime Summer 2025"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | The Fragrant Flower Blooms With Dignity |
+    | 2 | Dandadan Season 2 |
+    | 3 | Dr. STONE: Science Future Part 2 |
+    | 4 | Grand Blue Dreaming Season 2 |
+    | 5 | Call of the Night Season 2 |
+    | 6 | My Dress-Up Darling Season 2 |
+    | 7 | Rascal Does Not Dream of a Santa Claus |
+    | 8 | The Summer Hikaru Died |
+    | 9 | Gachiakuta |
+    | 10 | New Panty & Stocking with Garterbelt |
+<!--8<-- [end:al-2509] -->
 
 #### Week 4
 
