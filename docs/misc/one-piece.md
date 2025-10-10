@@ -64,7 +64,8 @@
 
 ### Chapters
 
-- Chapter 1161 - [Link 1](https://cubari.moe/read/imgchest/vj4j8x8g578/1/ 1/) / [Link 2](https://tcbonepiecechapters.com/chapters/7895/one-piece-chapter-1161) / Break Next Week (Reason: Author's poor health)
+- Chapter 1162 - [Link 1](https://tcbonepiecechapters.com/chapters/7899/one-piece-chapter-1162) / [Link 2](https://cubari.moe/read/imgchest/wl7lam8qqyx/1/1/) / Break Next Week
+- Chapter 1161 - [Link 1](https://mangaplus.shueisha.co.jp/viewer/1026337?timestamp=1760101809447)  /  [Link 2](https://cubari.moe/read/imgchest/vj4j8x8g578/1/ 1/) / [Link 3](https://tcbonepiecechapters.com/chapters/7895/one-piece-chapter-1161)  
 - Chapter 1160 - [Link 1](https://mangaplus.shueisha.co.jp/viewer/1026336?timestamp=1757862057915) / [Link 2](https://tcbonepiecechapters.com/chapters/7884/one-piece-chapter-1160) / [Link 3](https://cubari.moe/read/imgur/LJasQpW/1/1/) / [Link 4](https://imgur.com/a/LJasQpW)
 
 --- 
@@ -72,7 +73,7 @@
 ## Spoilers / Raws
 
 <details>
-    <summary>Chapter 1162</summary>
+    <summary>Chapter 1163</summary>
     
     <p><strong>Not out yet.</strong></p>
 

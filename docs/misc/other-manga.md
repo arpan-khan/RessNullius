@@ -36,5 +36,6 @@
 ## One Punch Man
 ### Chapters
 
+- Chapter 216 - [Link 1](https://cubari.moe/read/imgchest/qb4z5k8e34j/1/1/)
 - Chapter 215 - [Link 1](https://cubari.moe/read/imgchest/5xy22kkj3yl/1/1/)
 - Chapter 214 - [Link 1](https://cubari.moe/read/imgchest/lqyemoa2z7d/1/1/) / [Link 2](https://cubari.moe/read/gist/OPM/214/1/)
