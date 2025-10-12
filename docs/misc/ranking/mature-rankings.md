@@ -6,6 +6,22 @@
 
 ### October
 
+<!--8<-- [start:toptoon-2510w2] -->
+??? note "TopToon Global Week 2"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | The Hole is Open |
+    | 2 | Secret Class |
+    | 3 | Sex Study Group |
+    | 4 | All about My Best |
+    | 5 | Queen Bee |
+    | 6 | A Second Chance |
+    | 7 | Panty Note |
+    | 8 | Brave New World |
+    | 9 | Eat First, Mom |
+    | 10 | MILF Hunter in Another World |
+<!--8<-- [end:toptoon-2510w2] -->
+
 <!--8<-- [start:toptoon-2510w1] -->
 ??? note "TopToon Global Week 1"
     | Rank | Title |

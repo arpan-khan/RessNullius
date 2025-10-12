@@ -6,6 +6,41 @@
 
 ### October
 
+#### Week 2
+
+<!--8<-- [start:shoseki-2510w2] -->
+
+??? note "Shoseki Ranking - 9/29-10/5"
+    | Rank | English Title | Author |
+    |:----:|:-----------------------------------------------|:-------------------|
+    | 1 | SPY x FAMILY | Tatsuya Endo |
+    | 2 | March Comes in Like a Lion | Chica Umino |
+    | 3 | Kagurabachi | Takeru Hokazono |
+    | 4 | One-Punch Man | Yusuke Murata |
+    | 5 | Dandadan | Yukinobu Tatsu |
+    | 6 | Blue Box | Kouji Miura |
+    | 7 | SAKAMOTO DAYS | Yuto Suzuki |
+    | 8 | Ibuki of the Carrier GREAT GAME | Kaiji Kawaguchi |
+    | 9 | Ichi the Witch | Shiro Usazaki |
+    | 10 | Call of the Night: Paradise Arc | Kotoyama |
+<!--8<-- [end:shoseki-2510w2] -->
+
+<!--8<-- [start:oricon-2510w2] -->
+??? note "Japan Weekly Manga Sales Ranking - As of October 13, 2025"
+    | Ranking | Title | Author |
+    |:----:|:-------------------------------------------------------------|:-----------------------------------------------------|
+    | 1 | SPY×FAMILY Vol.16 | Tatsuya Endo |
+    | 2 | March Comes in Like a Lion Vol.18 | Chica Umino |
+    | 3 | Kagurabachi Vol.9 | Takeru Hokazono |
+    | 4 | One-Punch Man Vol.35 | (Story) ONE / (Art) Yusuke Murata |
+    | 5 | Dandadan Vol.21 | Yukinobu Tatsu |
+    | 6 | Ao no Hako (Blue Box) Vol.22 | Kōji Miura |
+    | 7 | Sakamoto Days Vol.24 | Yūto Suzuki |
+    | 8 | March Comes in Like a Lion Special Acrylic Figure Edition Vol.18 | Chica Umino |
+    | 9 | Kūbo Ibuki Great Game Vol.17 | (Art) Kaiji Kawaguchi / (Cooperation) Katsuhito Yagi, Masato Ushio / (Original cooperation) Haruhiko Megumi |
+    | 10 | BORUTO -Two Blue Vortex Vol.6 | (Art) Mikio Ikemoto / (Original & Supervision) Masashi Kishimoto |
+<!--8<-- [end:oricon-2510w2] -->
+
 #### Week 1
 
 <!--8<-- [start:shoseki-2510w1] -->

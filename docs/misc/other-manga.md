@@ -14,7 +14,8 @@
 ## Jujutsu Kaisen Modulo
 ### Chapters
 
-- Chapter 5 - [Link 2](https://mangaplus.shueisha.co.jp/viewer/1026618?timestamp=1759722264401) / [Link 2](https://tcbonepiecechapters.com/chapters/7898/jujutsu-kaisen-modulo-chapter-) / No Break Next Week
+- Chapter 6 - [Link 1](https://tcbonepiecechapters.com/chapters/7902/jujutsu-kaisen-modulo-chapter-6) / No Break Next Week
+- Chapter 5 - [Link 1](https://mangaplus.shueisha.co.jp/viewer/1026618?timestamp=1759722264401) / [Link 2](https://tcbonepiecechapters.com/chapters/7898/jujutsu-kaisen-modulo-chapter-) 
 - Chapter 4 - [Link 1](https://mangaplus.shueisha.co.jp/viewer/1026617?timestamp=1759376683582) / [Link 2](https://tcbonepiecechapters.com/chapters/7897/jujutsu-kaisen-modulo-chapter-4)
 - Chapter 3 - [Link 1](https://mangaplus.shueisha.co.jp/viewer/1026616?timestamp=1758510875591) / [Link 2](https://tcbonepiecechapters.com/chapters/7894/jujutsu-kaisen-modulo-chapter-3)
 - Chapter 2 - [Link 1](https://mangaplus.shueisha.co.jp/viewer/1026615?timestamp=1757862100375) / [Link 2](https://tcbonepiecechapters.com/chapters/7893/jujutsu-kaisen-modulo-chapter-2)

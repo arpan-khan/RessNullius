@@ -6,6 +6,57 @@
 
 ### October
 
+#### Week 2
+
+<!--8<-- [start:animekarmalist-2510w2] -->
+??? note "AnimeKarmaList Week 2 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | My Hero Academia FINAL SEASON |
+    | 2 | Gachiakuta |
+    | 3 | SPY x FAMILY Season 3 |
+    | 4 | Umamusume: Cinderella Gray |
+    | 5 | This Monster Wants to Eat Me |
+    | 6 | May I Ask For One Final Thing? |
+    | 7 | My Status as an Assassin Obviously Exceeds the Hero's |
+    | 8 | Campfire Cooking in Another World with My Absurd Skill Season 2 |
+    | 9 | WITCH WATCH |
+    | 10 | GINTAMA: Mr. Ginpachi's Zany Class |
+<!--8<-- [end:animekarmalist-2510w2] -->
+
+<!--8<-- [start:animetrending-2510w2] -->
+??? note "Anime Trending Week 2 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | The Fragrant Flower Blooms with Dignity |
+    | 2 | DAN DA DAN S2 |
+    | 3 | My Dress-Up Darling S2 |
+    | 4 | Takopi's Original Sin |
+    | 5 | Secrets of the Silent Witch |
+    | 6 | Call of the Night S2 |
+    | 7 | Toilet-bound Hanako-kun S2 Part II |
+    | 8 | Rascal Does Not Dream of Santa Claus |
+    | 9 | The Summer Hikaru Died |
+    | 10 | Dr. STONE SCIENCE FUTURE Part II |
+<!--8<-- [end:animetrending-2510w2] -->
+
+<!--8<-- [start:animecorner-2510w2] -->
+
+??? note "Anime Corner Week 2 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1st | My Hero Academia Final Season |
+    | 2nd | Spy x Family Season 3 |
+    | 3rd | May I Ask for One Final Thing? |
+    | 4th | To Your Eternity Season 3 |
+    | 5th | My Friend's Little Sister Has It In For Me! |
+    | 6th | Campfire Cooking in Another World with My Absurd Skill Season 2 |
+    | 7th | Ranma ½ (2024) Season 2 |
+    | 8th | Let This Grieving Soul Retire Cour 2 |
+    | 9th | This Monster Wants to Eat Me |
+    | 10th | My Awkward Senpai |
+<!--8<-- [end:animecorner-2510w2] -->
+
 #### Week 1
 
 <!--8<-- [start:animekarmalist-2510w1] -->

@@ -39,28 +39,27 @@
     | Week 30   | 1155        | 34        | July 21, 2025             |
     | Week 31   | Oda Break   | 35        | July 28, 2025             |
     | Week 32   | 1156        | 36 \| 37  | August 4, 2025            |
-    | Week 33   | WSJ Break   | —         | August 11, 2025           |
+    | Week 33   | WSJ Break   | —         | —                         |
     | Week 34   | 1157        | 38        | August 18, 2025           |
-    | Week 35   | WSJ Break   | 39        | August 25, 2025           |
+    | Week 35   | WSJ Break   | —         | —                         |
     | Week 36   | 1158        | 40        | September 1, 2025         |
     | Week 37   | 1159        | 41        | September 8, 2025         |
     | Week 38   | 1160        | 42        | September 15, 2025        |
     | Week 39   | Oda Break   | 43        | September 22, 2025        |
     | Week 40   | 1161        | 44        | September 29, 2025        |
-    | Week 41   | 1162        | 45        | October 6, 2025           |
-    | Week 42   | 1163        | 46        | October 13, 2025          |
+    | Week 41   | Oda Break   | 45        | October 6, 2025           |
+    | Week 42   | 1162        | 46        | October 13, 2025          |
     | Week 43   | Oda Break   | 47        | October 20, 2025          |
-    | Week 44   | 1164        | 48        | October 27, 2025          |
-    | Week 45   | 1165        | 49        | November 3, 2025          |
-    | Week 46   | Oda Break   | 50        | November 10, 2025         |
-    | Week 47   | 1166        | 51        | November 17, 2025         |
-    | Week 48   | 1167        | 52        | November 24, 2025         |
-    | Week 49   | Oda Break   | 1         | December 1, 2025          |
+    | Week 44   | 1163        | 48        | October 27, 2025          |
+    | Week 45   | 1164        | 49        | November 3, 2025          |
+    | Week 46   | 1165        | 50        | November 10, 2025         |
+    | Week 47   | Oda Break   | 51        | November 17, 2025         |
+    | Week 48   | 1166        | 52        | November 24, 2025         |
+    | Week 49   | 1167        | 1         | December 1, 2025          |
     | Week 50   | 1168        | 2         | December 8, 2025          |
-    | Week 51   | 1169        | 3         | December 15, 2025         |
-    | Week 52   | 1170        | 4 \| 5    | December 22, 2025         |
+    | Week 51   | Oda Break   | 3         | December 15, 2025         |
+    | Week 52   | 1169        | 4 \| 5    | December 22, 2025         |
     | Week 53   | WSJ Break   | —         | —                         |
-
 
 ### Chapters
 
