@@ -6,6 +6,57 @@
 
 ### October
 
+#### Week 3
+
+<!--8<-- [start:animekarmalist-2510w3] -->
+??? note "AnimeKarmaList Week 3 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | My Hero Academia FINAL SEASON |
+    | 2 | SPY x FAMILY Season 3 |
+    | 3 | Gachiakuta |
+    | 4 | May I Ask for One Final Thing? |
+    | 5 | One-Punch Man Season 3 |
+    | 6 | This Monster Wants to Eat Me |
+    | 7 | Umamusume: Cinderella Gray |
+    | 8 | A Wild Last Boss Appeared! |
+    | 9 | Ranma 1/2 (2024) Season 2 |
+    | 10 | Campfire Cooking in Another World with my Absurd Skill Season 2 |
+<!--8<-- [end:animekarmalist-2510w3] -->
+
+<!--8<-- [start:animetrending-2510w3] -->
+??? note "Anime Trending Week 3 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | SPY x FAMILY S3 |
+    | 2 | Umamusume: Cinderella Gray P2 |
+    | 3 | My Hero Academia FINAL SEASON |
+    | 4 | Ranma 1/2 (2024) S2 |
+    | 5 | May I Ask For One Final Thing? |
+    | 6 | This Monster Wants to Eat Me |
+    | 7 | GACHIAKUTA |
+    | 7 | Chitose Is in the Ramune Bottle |
+    | 8 | SANDA |
+    | 9 | Dusk Beyond the End of the World |
+    | 10 | My Status as an Assassin Obviously Exceeds the Hero's |
+<!--8<-- [end:animetrending-2510w3] -->
+
+<!--8<-- [start:animecorner-2510w3] -->
+??? note "AnimeCorner Week 3 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | My Hero Academia Final Season |
+    | 2 | Ranma ½ (2024) Season 2 |
+    | 3 | This Monster Wants to Eat Me |
+    | 4 | Spy x Family Season 3 |
+    | 5 | May I Ask for One Final Thing? |
+    | 6 | Uma Musume: Cinderella Gray Part 2 |
+    | 7 | Chitose Is in the Ramune Bottle |
+    | 8 | Sanda |
+    | 9 | Dusk Beyond the End of the World |
+    | 10 | To Your Eternity Season 3 |
+<!--8<-- [end:animecorner-2510w3] -->
+
 #### Week 2
 
 <!--8<-- [start:animekarmalist-2510w2] -->
@@ -45,7 +96,7 @@
 ??? note "Anime Corner Week 2 Top 10"
     | Rank | Title |
     |:----:|:------|
-    | 1st | My Hero Academia Final Season |
+    | 1st | My Hero Academia FINAL SEASON |
     | 2nd | Spy x Family Season 3 |
     | 3rd | May I Ask for One Final Thing? |
     | 4th | To Your Eternity Season 3 |
@@ -63,7 +114,7 @@
 ??? note "AnimeKarmaList Week 1 Top 10"
     | Rank | Title |
     |:----:|:------|
-    | 1 | The Fragrant Flower Blooms With Dignity |
+    | 1 | The Fragrant Flower Blooms with Dignity |
     | 2 | Gachiakuta |
     | 3 | This Monster Wants to Eat Me |
     | 4 | The Summer Hikaru Died |
@@ -96,12 +147,12 @@
     | Rank | Title |
     |:----:|:------|
     | 1st | The Summer Hikaru Died |
-    | 2nd | Toilet-Bound Hanako-kun Season 2 Part 2 |
+    | 2nd | Toilet-bound Hanako-kun S2 Part II |
     | 3rd | The Fragrant Flower Blooms with Dignity |
-    | 4th | Dan Da Dan Season 2 |
+    | 4th | DAN DA DAN S2 |
     | 5th | Rascal Does Not Dream of Santa Claus |
-    | 6th | Call of the Night Season 2 |
-    | 7th | Dr. Stone: Science Future (Season 4) Part 2 |
+    | 6th | Call of the Night S2 |
+    | 7th | Dr. STONE SCIENCE FUTURE Part II |
     | 8th | Sakamoto Days Part 2 |
     | 9th | My Dress-Up Darling Season 2 |
     | 10th | Grand Blue Season 2 |
@@ -115,11 +166,11 @@
 ??? note "MyAnimeList Seasonal Top Anime Summer 2025"
     | Rank | Title |
     |:----:|:------|
-    | 1 | The Fragrant Flower Blooms With Dignity |
+    | 1 | The Fragrant Flower Blooms with Dignity |
     | 2 | Lord of the Mysteries Season 2 |
-    | 3 | Dandadan Season 2 |
-    | 4 | Dr. STONE: Science Future Part 2 |
-    | 5 | Grand Blue Dreaming Season 2 |
+    | 3 | DAN DA DAN S2 |
+    | 4 | Dr. STONE SCIENCE FUTURE Part II |
+    | 5 | Grand Blue Season 2 |
     | 6 | Call of the Night Season 2 |
     | 7 | Rascal Does Not Dream of a Santa Claus |
     | 8 | My Dress-Up Darling Season 2 |
@@ -131,11 +182,11 @@
 ??? note "Anilist Seasonal Top Anime Summer 2025"
     | Rank | Title |
     |:----:|:------|
-    | 1 | The Fragrant Flower Blooms With Dignity |
-    | 2 | Dandadan Season 2 |
-    | 3 | Dr. STONE: Science Future Part 2 |
-    | 4 | Grand Blue Dreaming Season 2 |
-    | 5 | Call of the Night Season 2 |
+    | 1 | The Fragrant Flower Blooms with Dignity |
+    | 2 | DAN DA DAN S2 |
+    | 3 | Dr. STONE SCIENCE FUTURE Part II |
+    | 4 | Grand Blue Season 2 |
+    | 5 | Call of the Night S2 |
     | 6 | My Dress-Up Darling Season 2 |
     | 7 | Rascal Does Not Dream of a Santa Claus |
     | 8 | The Summer Hikaru Died |
@@ -151,15 +202,15 @@
     | Rank | Title |
     |:----:|:------|
     | 1 | bâan: The Boundary of Adulthood |
-    | 2 | My Dress-Up Darling Season 2 |
-    | 3 | The Fragrant Flower Blooms With Dignity |
+    | 2 | My Dress-Up Darling S2 |
+    | 3 | The Fragrant Flower Blooms with Dignity |
     | 4 | Secrets of the Silent Witch |
     | 5 | There's No Freaking Way I'll Be Your Lover! Unless... |
-    | 6 | Dr. STONE SCIENCE FUTURE Cour 2 |
+    | 6 | Dr. STONE SCIENCE FUTURE Part II |
     | 7 | Gachiakuta |
     | 8 | Rascal Does Not Dream of Santa Claus |
     | 9 | The Summer Hikaru Died |
-    | 10 | Grand Blue Dreaming Season 2 |
+    | 10 | Grand Blue Season 2 |
 <!--8<-- [end:animekarmalist-2509w4] -->
 
 <!--8<-- [start:animetrending-2509w4] -->
@@ -183,12 +234,12 @@
     | Rank | Title |
     |:----:|:------|
     | 1st | The Summer Hikaru Died |
-    | 2nd | Toilet-Bound Hanako-kun Season 2 Part 2 |
+    | 2nd | Toilet-bound Hanako-kun S2 Part II |
     | 3rd | The Fragrant Flower Blooms with Dignity |
-    | 4th | Dan Da Dan Season 2 |
+    | 4th | DAN DA DAN S2 |
     | 5th | Rascal Does Not Dream of Santa Claus |
-    | 6th | Call of the Night Season 2 |
-    | 7th | Dr. Stone: Science Future (Season 4) Part 2 |
+    | 6th | Call of the Night S2 |
+    | 7th | Dr. STONE SCIENCE FUTURE Part II |
     | 8th | Sakamoto Days Part 2 |
     | 9th | My Dress-Up Darling Season 2 |
     | 10th | Grand Blue Season 2 |
@@ -201,14 +252,14 @@
 ??? note "AnimeKarmaList Week 3 Top 10"
     | Rank | Title |
     |:----:|:------|
-    | 1 | DAN DA DAN Season 2 |
+    | 1 | DAN DA DAN S2 |
     | 2 | Clevatess |
-    | 3 | My Dress-Up Darling Season 2 |
-    | 4 | Dr. STONE SCIENCE FUTURE Cour 2 |
+    | 3 | My Dress-Up Darling S2 |
+    | 4 | Dr. STONE SCIENCE FUTURE Part II |
     | 5 | Secrets of the Silent Witch |
     | 6 | There's No Freaking Way I'll Be Your Lover! Unless... |
     | 7 | Gachiakuta |
-    | 8 | The Fragrant Flower Blooms With Dignity |
+    | 8 | The Fragrant Flower Blooms with Dignity |
     | 9 | Call of the Night Season 2 |
     | 10 | Grand Blue Dreaming Season 2 |
 <!--8<-- [end:animekarmalist-2509w3] -->
@@ -235,13 +286,13 @@
     | Rank | Title |
     |:----:|:------|
     | 1st | To Be Hero X |
-    | 2nd | Dan Da Dan Season 2 |
-    | 3rd | Toilet-Bound Hanako-kun Season 2 Part 2 |
+    | 2nd | DAN DA DAN S2 |
+    | 3rd | Toilet-bound Hanako-kun S2 Part II |
     | 4th | The Summer Hikaru Died |
     | 5th | The Fragrant Flower Blooms with Dignity |
-    | 6th | Call of the Night Season 2 |
-    | 7th | My Dress-Up Darling Season 2 |
+    | 6th | Call of the Night S2 |
+    | 7th | My Dress-Up Darling S2 |
     | 8th | Sakamoto Days Part 2 |
     | 9th | Rascal Does Not Dream of Santa Claus |
-    | 10th | Dr. Stone: Science Future (Season 4) Part 2 |
+    | 10th | Dr. STONE SCIENCE FUTURE Part II |
 <!--8<-- [end:animecorner-2509w3] -->

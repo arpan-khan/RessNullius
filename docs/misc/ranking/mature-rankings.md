@@ -6,6 +6,22 @@
 
 ### October
 
+<!--8<-- [start:toptoon-2510w3] -->
+??? note "TopToon Global Week 3"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | Secret Class |
+    | 2 | Brave New World |
+    | 3 | The Hole is Open |
+    | 4 | Queen Bee |
+    | 5 | All About My Best Friend |
+    | 6 | Sex Study Group |
+    | 7 | Sextopwatch |
+    | 8 | Rooftop Sex King |
+    | 9 | SET UP |
+    | 10 | Eat First, Mom |
+<!--8<-- [end:toptoon-2510w3] -->
+
 <!--8<-- [start:toptoon-2510w2] -->
 ??? note "TopToon Global Week 2"
     | Rank | Title |

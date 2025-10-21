@@ -6,10 +6,43 @@
 
 ### October
 
+#### Week 3
+
+<!--8<-- [start:shoseki-2510w3] -->
+??? note "Shoseki Ranking - 10/6-10/12"
+    | Rank | English Title | Author |
+    |:----:|:-----------------------------------------------|:-------------------|
+    | 1 | SPY x FAMILY | Tatsuya Endo |
+    | 2 | That Time I Got Reincarnated as a Slime | Taiki Kawakami |
+    | 3 | One-Punch Man | Yusuke Murata |
+    | 4 | Bell Puppé's Super-Darling Engagement ~The Doll Princess Who Was Told "You're Not My Type" Gave Up and the Prince Became a Deredere. Truly Adorable!~ | Serene |
+    | 5 | Dandadan | Yukinobu Tatsu |
+    | 6 | Kagurabachi | Takeru Hokazono |
+    | 7 | Kaoru Hana wa Rin to Saku (The Fragrant Flower Blooms with Dignity) | Saka Mikami |
+    | 8 | Welcome to Demon School! Iruma-kun | Osamu Nishi |
+    | 9 | Blue Box | Kouji Miura |
+    | 10 | Grand Blue Dreaming | Kimitake Yoshioka |
+<!--8<-- [end:shoseki-2510w3] -->
+
+<!--8<-- [start:oricon-2510w3] -->
+??? note "Japan Weekly Manga Sales Ranking - As of October 20 2025 announced by Oricon"
+    | Ranking | Title | Author |
+    |:----:|:-------------------------------------------------------------|:-----------------------------------------------------|
+    | 1 | That Time I Got Reincarnated as a Slime Vol.30 | (Art) Taiki Kawakami / (Story) Fuse / (Character Design) Mitz Vah |
+    | 2 | SPY×FAMILY Vol.16 | Tatsuya Endo |
+    | 3 | Belle-Puppé's Superior Fiancé ~"You're not to my taste," said the doll princess, but when she stopped holding back, the prince fell head over heels. So lovely!~ Vol.2 | (Story) Asaki Asagiri / (Art) Seren |
+    | 4 | One-Punch Man Vol.35 | (Story) ONE / (Art) Yusuke Murata |
+    | 5 | Welcome to Demon School! Iruma-kun Vol.45 | Nishi Osamu |
+    | 6 | The Fragrant Flower Blooms with Dignity Vol.20 | Saka Mikami |
+    | 7 | Dandadan Vol.21 | Yukishin Ryū |
+    | 8 | Kagurabachi Vol.9 | Takeshi Hokazono |
+    | 9 | Grand Blue Dreaming Vol.25 | (Story) Kenji Inoue / (Art) Kōki Yoshioka |
+    | 10 | Ao no Hako (Blue Box) Vol.22 | Kōji Miura |
+<!--8<-- [end:oricon-2510w3] -->
+
 #### Week 2
 
 <!--8<-- [start:shoseki-2510w2] -->
-
 ??? note "Shoseki Ranking - 9/29-10/5"
     | Rank | English Title | Author |
     |:----:|:-----------------------------------------------|:-------------------|

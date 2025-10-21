@@ -57,10 +57,3 @@ Here are some of the most relevant articles:
 -   [**Privacy at risk disguised as child protection**](posts/2025/20250917-protect-privacy.md)
     <br>
     *Mandatory online ID laws threaten privacy under the guise of child protection.*
--   [**More Manga Updates**](misc/#index.md)
-    <br>
-    *Added Jujutsu Kaisen Modulo, Black Clover and One Punch Man Latest chapter updates*
-
--   [**One Piece Manga / Spoilers / Anime**](misc/one-piece.md)
-    <br>
-    *One Piece chapters*
