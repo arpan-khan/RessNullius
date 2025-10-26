@@ -6,6 +6,57 @@
 
 ### October
 
+#### Week 4
+
+<!--8<-- [start:animekarmalist-2510w4] -->
+??? note "AnimeKarmaList Week 4 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | My Hero Academia FINAL SEASON |
+    | 2 | Chainsaw Man - The Movie: Reze Arc |
+    | 3 | Gachiakuta |
+    | 4 | SPY x FAMILY Season 3 |
+    | 5 | One-Punch Man Season 3 |
+    | 6 | This Monster Wants to Eat Me |
+    | 7 | May I Ask for One Final Thing? |
+    | 8 | Umamusume: Cinderella Gray |
+    | 9 | My Status as an Assassin Obviously Exceeds the Hero's |
+    | 10 | Campfire Cooking in Another World with my Absurd Skill Season 2 |
+<!--8<-- [end:animekarmalist-2510w4] -->
+
+<!--8<-- [start:animetrending-2510w4] -->
+??? note "Anime Trending Week 4 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | My Hero Academia FINAL SEASON |
+    | 2 | Umamusume: Cinderella Gray P2 |
+    | 3 | SPY x FAMILY S3 |
+    | 4 | May I Ask For One Final Thing? |
+    | 5 | Ranma 1/2 (2024) S2 |
+    | 6 | This Monster Wants to Eat Me |
+    | 7 | GACHIAKUTA |
+    | 7 | SANDA |
+    | 8 | My Status as an Assassin Obviously Exceeds the Hero's |
+    | 9 | Chitose Is in the Ramune Bottle |
+    | 10 | Dusk Beyond the End of the World |
+<!--8<-- [end:animetrending-2510w4] -->
+
+<!--8<-- [start:animecorner-2510w4] -->
+??? note "AnimeCorner Week 4 Top 10"
+    | Rank | Title |
+    |:----:|:------|
+    | 1 | My Hero Academia Final Season |
+    | 2 | Spy x Family Season 3 |
+    | 3 | May I Ask for One Final Thing? |
+    | 4 | Ranma ½ (2024) Season 2 |
+    | 5 | Gachiakuta |
+    | 6 | This Monster Wants to Eat Me |
+    | 7 | Chitose Is in the Ramune Bottle |
+    | 8 | Dusk Beyond the End of the World |
+    | 9 | Uma Musume: Cinderella Gray Part 2 |
+    | 10 | Sanda |
+<!--8<-- [end:animecorner-2510w4] -->
+
 #### Week 3
 
 <!--8<-- [start:animekarmalist-2510w3] -->

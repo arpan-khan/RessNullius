@@ -6,6 +6,40 @@
 
 ### October
 
+#### Week 4
+
+<!--8<-- [start:shoseki-2510w4] -->
+??? note "Shoseki Ranking - 10/13-10/19"
+    | Rank | English Title | Author |
+    |:----:|:-----------------------------------------------|:-------------------|
+    | 1 | Kingdom | Yasuhisa Hara |
+    | 2 | That Time I Got Reincarnated as a Slime | Taiki Kawakami |
+    | 3 | SPY x FAMILY | Tatsuya Endo |
+    | 4 | Shangri-La Frontier: Crappy Game Hunter Challenges God-Tier Game | Ryosuke Fuji |
+    | 5 | Chronicles of an Aristocrat Reborn in Another World | Nini |
+    | 6 | One-Punch Man | Yusuke Murata |
+    | 7 | The Fragrant Flower Blooms with Dignity (Kaoru Hana wa Rin to Saku) | Saka Mikami |
+    | 8 | Welcome to Demon School! Iruma-kun | Osamu Nishi |
+    | 9 | Bell Puppé's Superior Fiancé ~The Doll Princess Who Was Told "You're Not My Type" Gave Up and the Prince Fell Head Over Heels. So Lovely!~ | Seren |
+    | 10 | March Comes in Like a Lion | Chica Umino |
+<!--8<-- [end:shoseki-2510w4] -->
+
+<!--8<-- [start:oricon-2510w4] -->
+??? note "Japan Weekly Manga Sales Ranking - As of October 27 2025 announced by Oricon"
+    | Ranking | Title | Author |
+    |:----:|:-------------------------------------------------------------|:-----------------------------------------------------|
+    | 1 | Kingdom Vol.77 | (Author) Yasuhisa Hara |
+    | 2 | That Time I Got Reincarnated as a Slime Vol.30 | (Art) Taiki Kawakami / (Story) Fuse / (Character Design) Mitz Vah |
+    | 3 | SPY×FAMILY Vol.16 | (Author) Tatsuya Endo |
+    | 4 | Shangri-La Frontier Vol.24: Crappy Game Hunter Challenges God-Tier Game | (Original Author) Kana Kōri / (Art) Ryōsuke Fujii |
+    | 5 | Welcome to Demon School! Iruma-kun Vol.45 | (Author) Osamu Nishi |
+    | 6 | The Reincarnated Aristocrat's Otherworld Adventure Vol.14 | (Art) nini / (Story) Yashu / (Character Design) Mo |
+    | 7 | One-Punch Man Vol.35 | (Story) ONE / (Art) Yusuke Murata |
+    | 8 | Belle-Puppé's Superior Fiancé ~"You're not to my taste," said the doll princess, but when she stopped holding back, the prince fell head over heels. So lovely!~ Vol.2 | (Story) Asaki Asagiri, Seren / (Art) Seren |
+    | 9 | The Fragrant Flower Blooms with Dignity Vol.20 | (Author) Saka Mikami |
+    | 10 | Shura no Koku Vol.26 | (Author) Masatoshi Kawahara |
+<!--8<-- [end:oricon-2510w4] -->
+
 #### Week 3
 
 <!--8<-- [start:shoseki-2510w3] -->

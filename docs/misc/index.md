@@ -6,14 +6,14 @@ This section contains miscellaneous content.
 *   [Manga / Webcomics](#manga--webcomics)
 
 ## Weekly / Monthly - Rankings / Lists
-### October Week 3 Rankings
+### October Week 4 Rankings
 
---8<-- "ranking/anime-rankings.md:animekarmalist-2510w3"
---8<-- "ranking/anime-rankings.md:animetrending-2510w3"
---8<-- "ranking/anime-rankings.md:animecorner-2510w3"
---8<-- "ranking/manga-rankings.md:shoseki-2510w3"
---8<-- "ranking/manga-rankings.md:oricon-2510w3"
---8<-- "ranking/mature-rankings.md:toptoon-2510w3"
+--8<-- "ranking/anime-rankings.md:animekarmalist-2510w4"
+--8<-- "ranking/anime-rankings.md:animetrending-2510w4"
+--8<-- "ranking/anime-rankings.md:animecorner-2510w4"
+--8<-- "ranking/manga-rankings.md:shoseki-2510w4"
+--8<-- "ranking/manga-rankings.md:oricon-2510w4"
+--8<-- "ranking/mature-rankings.md:toptoon-2510w4"
 
 ### September Monthly Ranking
 
