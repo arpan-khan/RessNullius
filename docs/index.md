@@ -48,6 +48,9 @@ A concise index of nonsense.
 
 Here are some of the most relevant articles:
 
+*   [**End of Anonymity**](posts/2025/20251114-end-of-anonymity.md)
+    <br>
+    *Governments and corporations are racing to erase online anonymity and push mass surveillance.*
 -   [**How Mainstreaming and Monopolies Are Threatening Anime Authenticity**](posts/2025/20251005-anime-authenticity-threat.md)
     <br>
     *Mainstreaming and monopolies are diluting anime’s authenticity and creative freedom.*
